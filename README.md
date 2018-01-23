@@ -1,8 +1,19 @@
 # My favorite vimrc setting
-Download dracula theme for vim at [https://github.com/dracula/vim.git](https://github.com/dracula/vim.git)
+1st clone this repository
+
 ```commandline
-$ cd ~/.vim
-$ git clone https://github.com/dracula/vim.git
-$ cd vim
-$ mv colors ../
+cd ~/my_vim_setting
 ```
+
+```commandline
+mv .vimrc ../
+mv .vim ../  
+```
+
+```commandline
+vim .vimrc
+:NeoBundleInstall
+:wq
+```
+
+
