@@ -1,5 +1,12 @@
 # My favorite vimrc setting
-1st clone this repository
+install python lint tool
+
+```commandline
+python -m pip install flake8
+pip install autopep8
+```
+
+clone this repository
 
 ```commandline
 cd ~/my_vim_setting
