@@ -14,7 +14,7 @@ cd ~/my_vim_setting
 
 ```commandline
 mv .vimrc ../
-mv vim ../.vim  
+mv .vim ../  
 ```
 
 ```commandline
